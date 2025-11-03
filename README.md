@@ -1,2 +1,2 @@
-# Rob-controle-de-qualidade
+# RobQuality
 Referente à disciplina de Robotica Inclusiva
