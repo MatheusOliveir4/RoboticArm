@@ -49,4 +49,6 @@ The project uses **Python** and the **OpenCV** library. The logic flow works as 
 ---
 
 ### Prerequisites
-Make sure your Raspberry Pi is up to date.
+- Make sure your Raspberry Pi is up to date
+```bash
+pip install -r requirements.txt
