@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 About the Project
+##  📋 About the Project
 
 This project consists of a **3D printed robotic gripper** controlled by servomotors, integrated with a computer vision system. The main objective is to create an accessible solution for automated object separation.
 
